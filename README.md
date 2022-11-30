@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 I am a junior analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :telescope: Completed courses in analytics:
+- :telescope: Successfully completed courses in analytics:
 
   * KARPOV.COURSES (2022):
     + Data Analyst Simulator
