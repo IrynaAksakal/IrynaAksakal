@@ -56,8 +56,13 @@ I am a junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/add_stackoverflow/icons/apacheairflow/apacheairflow-original-wordmark.svg" title="ApacheAirflow" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/clickhouse.svg" title="Clickhouse" alt="Clickhouse" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power BI-white?style=for-the-badge&logo=Power BI&logoColor=yellow" alt="Power BI Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Superset-blue?style=for-the-badge&logo=Superset&logoColor=grey" alt="Superset Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redash-red?style=for-the-badge&logo=Redash&logoColor=white" alt="Redash Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=Excel&logoColor=white" alt="Excel Badge"/>&nbsp;
+  <img src="https://img.shields.io/badge/Google sheets-white?style=for-the-badge&logo=Google sheets&logoColor=green" alt="Google sheets Badge"/>
+  </div>
 
   
 ---
