@@ -37,16 +37,16 @@
 - :telescope: Успешно прошла обучение на курсах:
 
   * KARPOV.COURSES (2022):
-    + Симулятор аналитика/Data Analyst Simulator
+    + [Симулятор аналитика/Data Analyst Simulator](https://github.com/IrynaAksakal/My-certificates/blob/main/KARPOV.Courses%20Data%20Analyst%20Simulator%20(certify).pdf)
 
   * Skillbox (2022):
-    + Аналитик данных с нуля
+    + [Аналитик данных с нуля](https://github.com/IrynaAksakal/My-certificates/blob/main/Skillbox%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%20%D0%BD%D1%83%D0%BB%D1%8F%202.0%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82).pdf)
 
   * Stepik (2022):
-     + Интерактивный тренажер по SQL;
-     + Оконные функции SQL;
-     + Основы статистики;
-     + Введение в базы данных.
+     + [Интерактивный тренажер по SQL](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9%20%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80%20%D0%BF%D0%BE%20sql%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82-Stepik%201.03.2022%20).pdf);
+     + [Оконные функции SQL](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%9E%D0%BA%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8%20SQL%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-%20Stepik%2019.04.2022).pdf);
+     + [Основы статистики](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82)%2025.05.2022.pdf);
+     + [Введение в базы данных](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-Stepik%20)%20.pdf).
      
 - :zap: В свободное время прохожу обучение на курсах на Stepik и Coursera, решаю задачи на sql-ex.ru, читаю статьи и книги по аналитике.
 - :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-aksakal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB-474547242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31AZ8pP9QRaviTuWqYs4vA%3D%3D)
