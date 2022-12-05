@@ -48,7 +48,7 @@
      + [Основы статистики](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82)%2025.05.2022.pdf);
      + [Введение в базы данных](https://github.com/IrynaAksakal/My-certificates/blob/main/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%B1%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20(%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20-Stepik%20)%20.pdf).
      
-- :zap: В свободное время прохожу обучение на курсах на Stepik и Coursera, решаю задачи на sql-ex.ru, читаю статьи и книги по аналитике.
+- :zap: В свободное время прохожу обучение на Stepik и Coursera, решаю задачи на sql-ex.ru, читаю статьи и книги по аналитике.
 - :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-aksakal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB-474547242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31AZ8pP9QRaviTuWqYs4vA%3D%3D)
   </a>
  [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=905417673275&text&type=phone_number&app_absent=0)
