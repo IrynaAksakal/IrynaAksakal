@@ -10,6 +10,12 @@
   <a href="https://t.me/Irina_Aksakal">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://api.whatsapp.com/send/?phone=905417673275&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+  </a>
+  <a href="https://tinyurl.com/4ea85pu7">
+    <img src="https://img.shields.io/badge/Viber-purple?style=for-the-badge&logo=Viber&logoColor=white" alt="Viber Badge"/>
+  </a>
 </div>
   
 
@@ -26,8 +32,8 @@
 
 
 
-### :woman_technologist: About Me :
-Я - аналитик данных/junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+### :woman_technologist: Обо мне:
+Я - аналитик данных/junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
 - :telescope: Успешно прошла обучение на курсах:
 
   * KARPOV.COURSES (2022):
@@ -43,7 +49,13 @@
      + Введение в базы данных.
      
 - :zap: В свободное время прохожу обучение на курсах на Stepik и Coursera, решаю задачи на sql-ex.ru, читаю статьи и книги по аналитике.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aksakal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB-474547242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31AZ8pP9QRaviTuWqYs4vA%3D%3D)
+- :mailbox:Как связаться со мной: [![Linkedin Badge](https://img.shields.io/badge/-aksakal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB-474547242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31AZ8pP9QRaviTuWqYs4vA%3D%3D)
+  </a>
+ [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=WhatsApp&logoColor=white)](https://api.whatsapp.com/send/?phone=905417673275&text&type=phone_number&app_absent=0)
+  </a>
+ [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Irina_Aksakal)
+  </a>
+ [![Viber Badge](https://img.shields.io/badge/-Viber-purple?style=flat&logo=Viber&logoColor=white)](https://tinyurl.com/4ea85pu7)
   <div> 
   
 --- 
