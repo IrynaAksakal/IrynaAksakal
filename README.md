@@ -18,7 +18,7 @@
  </div> 
   
  <h1 align="center">
-  Hi there
+  Всем привет!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
  
@@ -27,22 +27,22 @@
 
 
 ### :woman_technologist: About Me :
-I am a junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
-- :telescope: Successfully completed courses in analytics:
+Я - аналитик данных/junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+- :telescope: Успешно прошла обучение на курсах:
 
   * KARPOV.COURSES (2022):
-    + Data Analyst Simulator
+    + Симулятор аналитика/Data Analyst Simulator
 
   * Skillbox (2022):
-    + Data Analyst from scratch
+    + Аналитик данных с нуля
 
   * Stepik (2022):
-     + Interactive SQL trainer;
-     + SQL window functions;
-     + Fundamentals of statistics;
-     + Introduction to databases.
+     + Интерактивный тренажер по SQL;
+     + Оконные функции SQL;
+     + Основы статистики;
+     + Введение в базы данных.
      
-- :zap: In my free time I take courses on Stepik and Coursera, solve problems on the sql-ex.ru, read articles and books on analytics.
+- :zap: В свободное время прохожу обучение на курсах на Stepik и Coursera, решаю задачи на sql-ex.ru, читаю статьи и книги по аналитике.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-aksakal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B8%D1%80%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%81%D0%B0%D0%BA%D0%B0%D0%BB-474547242?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31AZ8pP9QRaviTuWqYs4vA%3D%3D)
   <div> 
   
