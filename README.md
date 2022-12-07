@@ -33,7 +33,7 @@
 
 
 ### :woman_technologist: Обо мне:
-Я - аналитик данных/ junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
+Я - аналитик данных/ Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Беларуси.
 - :telescope: Успешно прошла обучение на курсах:
 
   * KARPOV.COURSES (2022):
